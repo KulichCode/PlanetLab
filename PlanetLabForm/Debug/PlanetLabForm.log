@@ -1,0 +1,9 @@
+﻿  PlanetLab.cpp
+c:\users\ondřej\desktop\planetlabform\planetlab.h(112): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\ondřej\desktop\planetlabform\planetlab.h(116): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\ondřej\desktop\planetlabform\planetlab.h(214): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\ondřej\desktop\planetlabform\planetlab.h(215): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\ondřej\desktop\planetlabform\planetlab.h(806): warning C4244: '=': conversion from 'float' to 'UINT', possible loss of data
+c:\users\ondřej\desktop\planetlabform\planetlab.h(807): warning C4244: '=': conversion from 'float' to 'UINT', possible loss of data
+  PlanetLab.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  PlanetLabForm.vcxproj -> C:\Users\Ondřej\Desktop\PlanetLabForm\Debug\PlanetLabForm.exe
